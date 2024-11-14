@@ -11,6 +11,8 @@ With **Node Code Studio**, users can:
 
 This modular approach enables anyone to build, manage, and test API endpoints seamlessly.
 
+<img src="https://nodecodestudio.com/backend/doc-images/1731370978-question-node.png" alt="Node Code Studio Interface" width="600">
+
 ## Core Features
 - **Drag-and-drop interface** for creating API routes
 - **Multiple node types**: entry, processing, and output nodes
